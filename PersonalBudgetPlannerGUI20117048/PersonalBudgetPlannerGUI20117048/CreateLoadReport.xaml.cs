@@ -69,7 +69,7 @@ namespace PersonalBudgetPlannerGUI20117048
             }
             else
             {
-                MessageBox.Show("No report selected", "Alert"); // prompt user of error
+                MessageBox.Show("No report selected", "Alert"); // iform user of error
             }
             
         }
